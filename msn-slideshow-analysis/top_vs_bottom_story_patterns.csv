@@ -1,0 +1,55 @@
+section,item,group,value,evidence,takeaway
+key_stats,stories,top_10pct,865,top 10% of stories by page views,Top and bottom groups are the same size for a clean comparison
+key_stats,stories,bottom_10pct,865,bottom 10% of stories by page views,Top and bottom groups are the same size for a clean comparison
+key_stats,median_page_views,top_10pct,34878,median page views in the top decile,Top stories are pulling vastly more traffic
+key_stats,median_page_views,bottom_10pct,34,median page views in the bottom decile,Bottom stories are barely getting distributed
+key_stats,median_time_spent_minutes,top_10pct,24412,median time spent in the top decile,Top stories are also holding attention much longer
+key_stats,median_time_spent_minutes,bottom_10pct,0,median time spent in the bottom decile,Bottom stories have weak engagement depth
+key_stats,median_headline_words,top_10pct,18,median headline word count in the top decile,Top headlines are a bit longer and more complete
+key_stats,median_headline_words,bottom_10pct,15,median headline word count in the bottom decile,Bottom headlines are shorter and often flatter
+top_patterns,Concrete event or disruption,top_10pct,,"United U-turn, arrest, aircraft carrier problems, layoff, shutdown","Top stories are anchored in something that happened, not just a trend or topic"
+top_patterns,Visible stakes,top_10pct,,"Money, travel, reputation, job security, military readiness",The consequence is immediately legible
+top_patterns,Recognizable anchor,top_10pct,,"Elon Musk, Don Lemon, Target, United, Navy, JPMorgan",A known person or institution gives instant relevance
+top_patterns,Conflict / surprise / reversal,top_10pct,,"Arrest fallout, weird travel incident, job regret, public firestorm","The hook is tension, not explanation"
+top_patterns,Human-scale framing,top_10pct,,"Family moves, retirement abroad, unemployment, caregiving, price pressure",Large issues are made legible through personal consequences
+top_patterns,Scene-rich or vivid detail,top_10pct,,"Laptop down the seat side, combat/fire/plumbing problems, stationary planes overnight",Specific detail makes the story feel real and memorable
+top_patterns,Broadly legible at a glance,top_10pct,,Reader can summarize in one sentence without industry jargon,The story can travel beyond the core vertical
+bottom_patterns,Guide / utility / shopping language,bottom_10pct,,"Best promo codes, best options, what to know, top picks","Useful, but often less urgent than a true event story"
+bottom_patterns,Topic-first rather than event-first,bottom_10pct,,"AI trends, app-store rankings, market milestones, commentary",The headline signals a category more than a narrative
+bottom_patterns,Insider or industry framing,bottom_10pct,,"Wall Street gifting, tech debate, AI training data, product-builder language",The audience is narrower and the hook more specialized
+bottom_patterns,Abstract consequence,bottom_10pct,,"Market levels, app rankings, model updates, product changes","The story explains what something means, but not always why to care now"
+bottom_patterns,Less visible human stakes,bottom_10pct,,"Few personal, reputational, or immediate operational consequences in the headline",The emotional or practical payoff is weaker
+bottom_patterns,More explanation than event,bottom_10pct,,Commentary and analysis dominate over scene or conflict,These stories often read as informative rather than urgent
+bottom_patterns,Trend/utility over tension,bottom_10pct,,"More guide, trend, or explainer structures",The hook is softer unless the angle is unusually sharp
+over_indexed,top_vs_bottom,top_over_indexed,"Military & Defense, Real Estate, Careers, Travel, Health, Economy, Politics",,"Reviews/Guides, Markets, Tech, AI, Retail, Advertising, Strategy"
+over_indexed,top_vs_bottom,top_over_indexed,"Operational strain, conflict, surprise, personal tradeoff",,"Utility, trend, market commentary, guide language"
+over_indexed,top_vs_bottom,top_over_indexed,Concrete event framing,,Topic/category framing
+over_indexed,top_vs_bottom,top_over_indexed,Human stakes and institutional fallout,,Insider or explanatory framing
+representative_top,Why Elon Musk says saving for retirement will be 'irrelevant' in the next 20 years,Finance,1838371,representative top-decile story,
+representative_top,Elon Musk says retirement savings 'won't matter' in 20 years. We asked 7 personal finance and AI gurus what they think.,Finance,442208,representative top-decile story,
+representative_top,"Ex-CNN anchor Don Lemon released after arrest in Los Angeles, says he 'will not be silenced'",Politics,424277,representative top-decile story,
+representative_top,Another United flight U-turned over the Atlantic after someone dropped a laptop down the side of their seat,Transportation,400744,representative top-decile story,
+representative_top,"We sold everything we owned, quit our jobs, and retired in Europe at 60. Leaving the US has its pros and cons.",Real Estate,389971,representative top-decile story,
+representative_top,"The US Navy's most advanced aircraft carrier pulled into port after months at sea facing combat, fire, and plumbing problems",Military & Defense,383152,representative top-decile story,
+representative_top,Target is once again caught in a political firestorm. Here's what HR is telling staff.,Retail,376578,representative top-decile story,
+representative_top,"Suspended Ford employee who heckled Trump sparks over $800,000 in GoFundMe donations",Transportation,327895,representative top-decile story,
+representative_top,"I quit a $250,000 job, thinking it would be easy to find another one. After a year of unemployment, I wish I could go back and shake myself.",Careers,323015,representative top-decile story,
+representative_top,"An 18-year-old brings in $300,000 a month selling 3D printed 'reload can holders.' Here's how he comes up with unique product ideas.",Markets,301329,representative top-decile story,
+representative_top,There's 1 week left to join AT&T's $177 million settlement over data breaches. Here's who qualifies.,Tech,283937,representative top-decile story,
+representative_top,"Sarah McLachlan, 58, says she had to 'eat a lot of humble pie' to repair her relationship with her older daughter",Parenting,277835,representative top-decile story,
+representative_bottom,Figma's CEO said his software won't replace the work of a world-class designer,AI,9,representative bottom-decile story,
+representative_bottom,Apple just joined Nvidia and Microsoft in the $4 trillion club,Markets,9,representative bottom-decile story,
+representative_bottom,Figma CEO says job titles are merging thanks to AI — and everyone is a 'product builder',Strategy,9,representative bottom-decile story,
+representative_bottom,The cost of lunch breaks is soaring — and more workers are skipping meals to manage,Retail,9,representative bottom-decile story,
+representative_bottom,"AI has already run out of training data — but there's more waiting to be unlocked, Goldman's data chief says",AI,9,representative bottom-decile story,
+representative_bottom,Tesla stock whipsaws after 3rd-quarter deliveries beat Wall Street's estimates,Markets,9,representative bottom-decile story,
+representative_bottom,ChatGPT has been No. 1 in app stores for 7 straight months,Tech,9,representative bottom-decile story,
+representative_bottom,The career advice Jensen Huang gave me,Careers,9,representative bottom-decile story,
+representative_bottom,AI's top leaders got corralled into holding hands. It made for a photo op for the ages.,AI,9,representative bottom-decile story,
+representative_bottom,Best Vistaprint promo codes in May 2026: Get up to $125 off your order,Reviews/Guides,9,representative bottom-decile story,
+representative_bottom,Anthropic's latest AI model can tell when it's being evaluated: 'I think you're testing me',AI,8,representative bottom-decile story,
+representative_bottom,Americans need friends. The wearable Friend is not one of them.,Discourse,8,representative bottom-decile story,
+practical_readout,top_performers,,,,"Top stories are usually built around a concrete incident, disruption, or personal/institutional consequence."
+practical_readout,bottom_performers,,,,"Bottom stories are more likely to be utility-driven, trend-driven, or insider/analytical stories without a sharp event hook."
+practical_readout,biggest_pattern,,,,The strongest repeated pattern is framing that makes the consequence immediate and easy to picture.
+practical_readout,ai_markets_tech,,,,"If a story is about AI, markets, tech, or shopping, it usually needs a sharper event or human stake to break into the top tier."
