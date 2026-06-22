@@ -16,11 +16,6 @@ Each week, the system reviews Business Insider slideshows that have earned more 
 
 The goal is a measurable increase in high-performing MSN articles and incremental revenue from the MSN partnership.
 
-## Collaborators
-
-- Lydia Warren, Deputy Editor, Editorial Partnerships
-- Meryl Gottlieb, Director, Business Development
-
 ## Workflow
 
 This repo contains the analysis and generation workflow used to produce the weekly peel recommendations, along with the supporting source data and output artifacts.
